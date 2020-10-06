@@ -16,5 +16,3 @@ Além do ensino formal, também estou smepre em busca de aumentar meu conhecimen
 - Pré-processadores: Sass;
 - Framework: Bootstrap;
 - Conhecimento em Git;
-
-------------
