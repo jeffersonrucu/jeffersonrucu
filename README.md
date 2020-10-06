@@ -11,7 +11,7 @@ Além do ensino formal, também estou smepre em busca de aumentar meu conhecimen
 ## Habilidades Técnicas 🤔:
 - Linguagem de Marcação: HTML5;
 - Linguagem de Formatação: CSS;
-- Linguagem de Programação: Java e JavaScript;
+- Linguagem de Programação: JavaScript;
 - Pré-processadores: Sass;
 - Framework: Bootstrap;
 - Conhecimento em Git;
