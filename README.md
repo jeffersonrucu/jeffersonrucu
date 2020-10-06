@@ -1,16 +1,20 @@
-### Hi there 👋
+# :smile: Jefferson Teixeira de Oliveira :smile:
 
-<!--
-**jeffersonrucu/jeffersonrucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá,
 
-Here are some ideas to get you started:
+Sou Jefferson estudante do ensino médio pela ETEC Zona Leste, junto realizo o ensino tecnico em Desenvolvimento de Sistemas. Faço parte do projeto P-TECH (estudo em sala de aula com mentoria do setor privado e experiências em locais de trabalho).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além do ensino formal, também estou smepre em busca de aumentar meu conhecimento através de estudos autodidatas, colocando em pratica com desenvolvimento de projetos pessoais. Estes projetos contam com revisão de pessoas que já atuam na área de desenvolvimento de sistemas, a fim de melhorar ainda mais a qualidade do meu código.
+
+------------
+
+
+## Habilidades Técnicas 🤔:
+- Linguagem de Marcação: HTML5;
+- Linguagem de Formatação: CSS;
+- Linguagem de Programação: Java e JavaScript;
+- Pré-processadores: Sass;
+- Framework: Bootstrap;
+- Conhecimento em Git;
+
+------------
