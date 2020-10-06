@@ -6,7 +6,6 @@ Sou Jefferson estudante do ensino médio pela ETEC Zona Leste, junto realizo o e
 
 Além do ensino formal, também estou smepre em busca de aumentar meu conhecimento através de estudos autodidatas, colocando em pratica com desenvolvimento de projetos pessoais. Estes projetos contam com revisão de pessoas que já atuam na área de desenvolvimento de sistemas, a fim de melhorar ainda mais a qualidade do meu código.
 
-------------
 
 
 ## Habilidades Técnicas 🤔:
