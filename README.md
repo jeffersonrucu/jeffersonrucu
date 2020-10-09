@@ -6,7 +6,7 @@ Sou discente do 2° ano do Curso DS/AMS(Ensino Médio/Técnico/Articulado com N�
 
 Além do ensino formal, também estou sempre em busca de aumentar meu conhecimento através de estudos autodidatas, colocando em pratica com desenvolvimento de projetos profissionais. Estes projetos contam com revisão de profissionais que já atuam na área de desenvolvimento de sistemas, a fim de melhorar ainda mais a qualidade do meu código.
 
-
+![](https://giphy.com/gifs/3o7aD9PQMNKa9k7ttu/html5)
 
 ## Habilidades Técnicas 🤔:
 - Linguagem de Marcação: HTML5;
