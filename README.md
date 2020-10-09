@@ -2,9 +2,9 @@
 
 Olá,
 
-Sou Jefferson estudante do ensino médio pela ETEC Zona Leste, junto realizo o ensino técnico em Desenvolvimento de Sistemas. Faço parte do projeto P-TECH (estudo em sala de aula com mentoria do setor privado e experiências em locais de trabalho).
+Sou discente do 2° ano do Curso DS/AMS(Ensino Médio/Técnico/Articulado com Nível Superior). Primeira Turma do Projeto PTHEC na Capital de São Paulo. Este curso é patrocinado pela IBM em conjunto com o Centro Paula Souza. Ao término terei 3 certificados, um do ensino médio, um de técnico em desenvolvimento de sistemas e uma graduação em Analise e desenvolvimento de sistemas
 
-Além do ensino formal, também estou smepre em busca de aumentar meu conhecimento através de estudos autodidatas, colocando em pratica com desenvolvimento de projetos pessoais. Estes projetos contam com revisão de pessoas que já atuam na área de desenvolvimento de sistemas, a fim de melhorar ainda mais a qualidade do meu código.
+Além do ensino formal, também estou sempre em busca de aumentar meu conhecimento através de estudos autodidatas, colocando em pratica com desenvolvimento de projetos profissionais. Estes projetos contam com revisão de profissionais que já atuam na área de desenvolvimento de sistemas, a fim de melhorar ainda mais a qualidade do meu código.
 
 
 
