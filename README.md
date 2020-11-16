@@ -14,8 +14,10 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 - Framework: Bootstrap;
 - Conhecimento em Git;
 
-
 --------------------
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonrucu&show_icons=true&theme=gruvbox)
 
-![](https://media.giphy.com/media/l4FGs5dbisGxm5b9e/giphy.gif)
+
+
+
