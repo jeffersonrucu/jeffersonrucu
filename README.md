@@ -16,7 +16,7 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 
 --------------------
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonrucu&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonrucu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 --------------------
