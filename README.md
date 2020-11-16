@@ -18,6 +18,8 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonrucu&show_icons=true&theme=gruvbox)
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonrucu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
