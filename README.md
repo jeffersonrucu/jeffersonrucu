@@ -22,6 +22,6 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 --------------------
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrucu&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrucu&langs_count=5)
 
 
