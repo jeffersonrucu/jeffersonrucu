@@ -22,8 +22,5 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 --------------------
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonrucu)
-
-
 
 
