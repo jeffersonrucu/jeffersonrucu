@@ -1,6 +1,6 @@
 <img src="https://le-site-francais.fr/wp-content/uploads/2019/06/pourquoi-wordpress-creation-site-internet.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-# :brazil: Jefferson Teixeira de Oliveira :brazil:
+# :brazil: Jefferson Teixeira de Oliveira
 
 <p align="left"> 
 Olá,
