@@ -10,9 +10,10 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 - Linguagem de Marcação: HTML5;
 - Linguagem de Formatação: CSS;
 - Linguagem de Programação: JavaScript;
+- Frameworks JS: VueJS;
 - Pré-processadores: Sass;
-- Framework: Bootstrap;
-- Conhecimento em Git;
+- Framework CSS: Bootstrap e Vuetify;
+- Versionamento de Código: Git;
 
 --------------------
 
