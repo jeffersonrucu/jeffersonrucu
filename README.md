@@ -9,10 +9,11 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 ## Habilidades Técnicas 🤔:
 - Linguagem de Marcação: HTML5;
 - Linguagem de Formatação: CSS;
-- Linguagem de Programação: JavaScript;
-- Frameworks JS: VueJS;
+- Linguagem de Programação: JavaScript e PHP;
 - Pré-processadores: Sass;
+- Frameworks JS: VueJS;
 - Framework CSS: Bootstrap e Vuetify;
+- Framework PHP: Laravel;
 - Versionamento de Código: Git;
 
 --------------------
