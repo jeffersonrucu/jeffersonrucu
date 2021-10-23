@@ -21,8 +21,8 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 <br>
 
 <p align="center">
-  <a href="www.linkedin.com/in/jeffersonrucu" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jeffersonrucu" /></a>
+  <a href="https://www.linkedin.com/in/jeffersonrucu" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511986983341&text=Ol%C3%A1" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/></a>
