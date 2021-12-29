@@ -11,11 +11,11 @@ Além do ensino formal, também estou sempre em busca de aumentar meu conhecimen
 </p>
 <br>
 <p align="left">
- :fire: Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>SASS</strong>, <strong>JavaScript</strong>, <strong>Jquery</strong>, <strong>VueJS</strong>, <strong>PHP</strong>, <strong>Wordpress</strong>, <strong>Laravel</strong>, <strong>SQL</strong>
+ :fire: Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>SASS</strong>, <strong>JavaScript</strong>, <strong>VueJS</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, <strong>SQL</strong>
 </p>
 
 <p align="left">
-  :wrench: Ferramentas: <strong>Adobe Photoshop</strong>, <strong>Figma</strong>, <strong>CorelDRAW</strong>, <strong>VSCode</strong>
+  :wrench: Ferramentas: <strong>Figma</strong>, <strong>VSCode</strong>
 </p>
 
 <br>
