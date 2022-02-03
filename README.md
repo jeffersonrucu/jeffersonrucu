@@ -5,7 +5,8 @@
 <p align="left"> 
 Olá,
 
-Sou discente do 3° ano do Curso DS/AMS(Ensino Médio/Técnico/Articulado com Nível Superior). Primeira Turma do Projeto P-TECH na Capital de São Paulo. Este curso é patrocinado pela IBM em conjunto com o Centro Paula Souza. Ao término terei 3 certificados, um do ensino médio, um de técnico em desenvolvimento de sistemas e uma graduação em Analise e desenvolvimento de sistemas
+Sou discente do 1° ano do ensino superior em Análise e Desenvolvimento de Sistemas pela FATEC da Zona Leste.
+Realizei meu ensino médio na ETEC da Zona Leste com técnicos em Desenvolvimento de Sistemas.
 
 Além do ensino formal, também estou sempre em busca de aumentar meu conhecimento através de estudos autodidatas, colocando em pratica com desenvolvimento de projetos profissionais. Estes projetos contam com revisão de profissionais que já atuam na área de desenvolvimento de sistemas, a fim de melhorar ainda mais a qualidade do meu código.
 </p>
