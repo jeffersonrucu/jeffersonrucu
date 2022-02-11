@@ -3,7 +3,7 @@
 # :brazil: Jefferson Teixeira de Oliveira
 
 <p align="left">
- :fire: Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>SASS</strong>, <strong>JavaScript</strong>, <strong>VueJS</strong>, <strong>PHP</strong>, <strong>SQL</strong>
+ :fire: Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>SASS</strong>, <strong>JavaScript</strong>, <strong>VueJS</strong>, <strong>PHP</strong> e  <strong>SQL</strong>
 </p>
 
 <p align="left">
