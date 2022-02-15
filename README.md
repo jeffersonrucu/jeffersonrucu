@@ -6,10 +6,6 @@
  :fire: Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>SASS</strong>, <strong>JavaScript</strong>, <strong>VueJS</strong>, <strong>PHP</strong> e  <strong>SQL</strong>
 </p>
 
-<p align="left">
-  :wrench: Ferramentas: <strong>Figma</strong>, <strong>VSCode</strong>
-</p>
-
 <br>
 
 <p align="center">
