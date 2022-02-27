@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente faço parte da equipe **Insus**
 
-- 🌱 Hoje me encontro aperfeiçoando meus conhecimentos **Front-end e Back-end**
+- 🌱 Hoje me encontro aperfeiçoando meus conhecimentos em **Front-end e Back-end**
 
 - 📫 Contato **jeffersonoliveirra@outlook.com**
 
