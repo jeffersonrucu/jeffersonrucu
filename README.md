@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Jefferson Oliveira</h1>
-<h3 align="center">Sou um desenvolvedor web e estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Desenvolvedor Front-end</h3>
 
 - 🔭 Atualmente faço parte da equipe **Insus**
 
