@@ -37,3 +37,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=jeffersonrucu" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonrucu&" alt="jeffersonrucu" />
