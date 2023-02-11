@@ -2,13 +2,22 @@
 
 ###
 
-<h4 align="left">Desenvolvedor Full stack Júnior e Estudante de Análise e Desenvolvimento de sistemas.</h4>
+<p align="left">
+  Oi eu sou um desenvolvedor Fullstack com especialização em Wordpress =D
+</p>
+
+<p align="left">
+  Atualmente, meus dias são dedicados a trabalhar com a linguagem de programação PHP e o Wordpress na criação de temas, e-commerces e plugins.
+</p>
+
+<p align="left">
+Gosto bastante de tecnologia e sempre estou em busca de aprender coisas novas, como Node, React, Flutter, Java, SQL, VueJS e outras ferramentas. Eu procuro sempre estar me atualizado e buscando maneiras de melhorar minhas habilidades e oferecer soluções cada vez mais eficientes para meus clientes. Para mim, é uma verdadeira aventura estar sempre explorando novos horizontes na tecnologia.
+</p>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
