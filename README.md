@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Oi eu sou um desenvolvedor Fullstack com especialização em Wordpress =D
+  Oi eu sou um desenvolvedor Fullstack especializado em Wordpress =D
 </p>
 
 <p align="left">
