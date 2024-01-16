@@ -18,6 +18,8 @@ Gosto bastante de tecnologia e sempre estou em busca de aprender coisas novas, c
 
 ###
 
+<h2>Tecnologias</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="62" alt="nodejs logo"  />
@@ -38,6 +40,8 @@ Gosto bastante de tecnologia e sempre estou em busca de aprender coisas novas, c
 
 ###
 
+<h2>Redes sociais</h2>
+
 <div align="left">
   <a href="https://ca.linkedin.com/in/jeffersonrucu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -46,6 +50,16 @@ Gosto bastante de tecnologia e sempre estou em busca de aprender coisas novas, c
 
 <br>
 <br>
+
+###
+
+<h2>Visitantes </h2>
+ 
+<img src="https://profile-counter.glitch.me/jeffersonrucu/count.svg" />
+
+###
+
+<h2>Gráfico </h2>
 
 ###
 
