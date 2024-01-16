@@ -57,6 +57,10 @@ Gosto bastante de tecnologia e sempre estou em busca de aprender coisas novas, c
  
 <img src="https://profile-counter.glitch.me/jeffersonrucu/count.svg" />
 
+<br>
+
+###
+
 ###
 
 <h2>Gráfico </h2>
